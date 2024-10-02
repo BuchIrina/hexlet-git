@@ -1,1 +1,1 @@
-Hello, Hexlet! How are ypu?
+No code No pain
